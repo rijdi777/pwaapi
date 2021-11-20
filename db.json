@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Bush dog","category":"Pink"},
+{"id":2,"name":"Dragon, western bearded","category":"Green"},
+{"id":3,"name":"Siskin, pine","category":"Blue"},
+{"id":4,"name":"Squirrel, eurasian red","category":"Maroon"},
+{"id":5,"name":"Verreaux's sifaka","category":"Indigo"},
+{"id":6,"name":"Tree porcupine","category":"Teal"},
+{"id":7,"name":"Elk, Wapiti","category":"Mauv"},
+{"id":8,"name":"Stork, white","category":"Khaki"},
+{"id":9,"name":"Gecko, tokay","category":"Khaki"},
+{"id":10,"name":"Sloth, hoffman's","category":"Green"},
+{"id":11,"name":"Red-winged blackbird","category":"Orange"},
+{"id":12,"name":"Black-eyed bulbul","category":"Goldenrod"},
+{"id":13,"name":"Crane, sarus","category":"Green"},
+{"id":14,"name":"Spotted deer","category":"Fuscia"},
+{"id":15,"name":"Dove, ring","category":"Pink"},
+{"id":16,"name":"Campo flicker","category":"Aquamarine"},
+{"id":17,"name":"Black kite","category":"Teal"},
+{"id":18,"name":"Vicuna","category":"Indigo"},
+{"id":19,"name":"Eastern indigo snake","category":"Orange"},
+{"id":20,"name":"Lapwing (unidentified)","category":"Turquoise"}
+]
+}
